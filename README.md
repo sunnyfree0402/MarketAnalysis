@@ -2,6 +2,8 @@
 
 Implementing many different methods and popular analysis tools in Python. This repository is built with a particular bias for options and quantitative analysis. You can find lots of usable data and various algorithms to use in your own analysis. Also, feel free to contribute any methods that interest you. 
 
+If you found this useful, you can find more useful applications of quant finance on [Spawner](https://www.spawner.ai).
+
 ## Getting Started
 
 Using a python3 environment, run the following to install all the libraries used in this repository:
